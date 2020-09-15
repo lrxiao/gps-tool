@@ -1,0 +1,8 @@
+prefix=/home/lrx/code/gps_workspace/install
+
+Name: ros_gps_useful_tools
+Description: Description of ros_gps_useful_tools
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lrx/code/gps_workspace/install/lib 
+Requires: 
